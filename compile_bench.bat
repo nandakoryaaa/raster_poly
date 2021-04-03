@@ -1,0 +1,1 @@
+g++ src/poly_bench.c -lSDL2main -lSDL2 -o poly_bench.exe
